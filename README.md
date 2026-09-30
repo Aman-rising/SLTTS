@@ -22,7 +22,7 @@ This project, *Sign Language to Speech Conversion using Machine Learning*, enabl
   ![J](/ReadmeAssets/J.jpg)
   Sign for J
 
-  ![Z](/ReadmeAssets/Z.jpg)
+  ![Z](/ReadmeAssets/Z_Letter.jpg)
   Sign for Z
 
   ![SPACE](/ReadmeAssets/Space.jpg)
