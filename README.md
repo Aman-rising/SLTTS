@@ -1,7 +1,7 @@
 ## **Overview**  
 This project, *Sign Language to Speech Conversion using Machine Learning*, enables the recognition of American Sign Language (ASL) gestures and converts them into spoken words or sentences. It is designed to bridge the communication gap for individuals who use sign language. 
 
-🔗[Video Demonstration on LinkedIn](https://www.linkedin.com/posts/tanmay-jivnani_capstoneproject-machinelearning-signlanguagerecognition-activity-7267174165739184128-VdZB?utm_source=share&utm_medium=member_desktop)
+
 
 
 ## 🎯 Features
@@ -48,7 +48,7 @@ This project, *Sign Language to Speech Conversion using Machine Learning*, enabl
 You can directly use the pre-trained model (`model.p`) provided in this repository:  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sign-language-to-speech.git
+   git clone https://github.com/Aman-rising/SLTTS
    cd sign-language-to-speech
    ```
 
@@ -115,10 +115,10 @@ We believe that collaboration is key to innovation. If you have suggestions for 
 ---
 
 ## **Contributors**  
-1. **[Tanmay Jivnani](https://github.com/tanmayJivnani)**
-2. **[Shravani Verma](https://github.com/Shravknowscoding)**
-3. **[Aishwarya Shendkar](https://github.com/aishwaryaa2603)**
-
+1. **[Aman Kumar](https://github.com/Aman-rising)**
+2. **[Anshu Kumar](https://github.com/Anshuworks)**
+3. **[Kanishk Kulshretha](https://github.com/kzarre)**
+4. **[Priyam Kumar](https://github.com/)**
 ---
 
 ## 📝 License
